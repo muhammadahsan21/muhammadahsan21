@@ -123,26 +123,26 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/-saadhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/saad-haxxan"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadhaxxan@ieee.org"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!-- <a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/-saadhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/ahsanshareef21"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahsanshareef21@gmail.com"><img src="https://img.shields.io/badge/-ahsanshareef21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ahsanshareef21"><img src="https://img.shields.io/badge/-@ahsanshareef21-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/ahsanshareef21"><img src="https://img.shields.io/badge/-@ahsanshareef21-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://github.com/saadhaxxan)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/saadhaxxan)
 
-## Some Community Projects
+<!-- ## Some Community Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**Awesome Python Projects**](https://github.com/saadhaxxan/Awesome-Python-Projects) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Learn_Machine_Learning_in_5_Months**](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**Python-For-Ethical-Hacking**](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Learn-Data-Science-in-3-months**](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**Learn-Data-Science-in-3-months**](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   | -->
 
-## My Activities :mailbox_with_mail:
+<!-- ## My Activities :mailbox_with_mail:
 
 | BOOTCAMPS & SESSIONS :tv: | 
 | :--- |
@@ -150,15 +150,15 @@
 | [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
 | [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
 | [Advanced Web Development Bootcamp](https://github.com/dscuol/Advanced-web-development-series) | 
-| [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) | 
+| [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) |  -->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ahsanshareef21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanshareef21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsanshareef21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanshareef21&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
